@@ -1,0 +1,5 @@
+C:\Exercicios\db1traineer\Exercicios\treinamentoDB1\AtividadeGrupo\bin\Debug\AtividadeGrupo.exe.config
+C:\Exercicios\db1traineer\Exercicios\treinamentoDB1\AtividadeGrupo\bin\Debug\AtividadeGrupo.exe
+C:\Exercicios\db1traineer\Exercicios\treinamentoDB1\AtividadeGrupo\bin\Debug\AtividadeGrupo.pdb
+C:\Exercicios\db1traineer\Exercicios\treinamentoDB1\AtividadeGrupo\obj\Debug\AtividadeGrupo.exe
+C:\Exercicios\db1traineer\Exercicios\treinamentoDB1\AtividadeGrupo\obj\Debug\AtividadeGrupo.pdb
